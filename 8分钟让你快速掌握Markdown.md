@@ -8,6 +8,8 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 #### 标题4
 ##### 标题5
 ###### 标题6
+![image](https://github.com/UTEPIL/my-notes-for-markdown/assets/141915574/3e26a8b0-d175-44a6-8d8b-b331124219c8)
+
 
 2.引用：> 大于号+空格
 > 这是一段引用
@@ -30,11 +32,13 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
   - [ ] 直接按回车生成下一行
   - [ ] 当然还是用Microsoft to do
 
-4.代码块（三个反引号+所使用的语言）
+4.代码块（三个反引号```（esc下面的符号）+所使用的语言）
 ```c
   #include<stido.h>
   int main()
     {hello world;return 0;}
+
+5.数学公式（4个美元符号，两个引起，两个表示结束）
 
 
 
