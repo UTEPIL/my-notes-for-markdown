@@ -43,7 +43,8 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
   int main()
     {hello world;return 0;}
 ![image](https://github.com/UTEPIL/my-notes-for-markdown/assets/141915574/923ed331-7650-41ba-a8b5-cd602130eb70)
-  ![image](https://github.com/UTEPIL/my-notes-for-markdown/assets/141915574/ffe865dc-d83e-448b-abd3-2ee76eef83d4)```
+  ![image](https://github.com/UTEPIL/my-notes-for-markdown/assets/141915574/ffe865dc-d83e-448b-abd3-2ee76eef83d4)
+```
 
 
 5.数学公式（4个美元符号，两个引起，两个表示结束）
